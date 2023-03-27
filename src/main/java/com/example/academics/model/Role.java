@@ -1,6 +1,6 @@
 package com.example.academics.model;
 
-import javax.persistence.*;
+import jakarta.persistence.*;
 import java.util.Objects;
 import java.util.Set;
 
