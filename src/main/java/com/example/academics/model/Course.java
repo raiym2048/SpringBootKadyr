@@ -2,7 +2,7 @@ package com.example.academics.model;
 
 import org.springframework.transaction.annotation.Transactional;
 
-import jakarta.persistence.*;
+import javax.persistence.*;
 import java.time.LocalDateTime;
 import java.util.Objects;
 
